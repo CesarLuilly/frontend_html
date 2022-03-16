@@ -1,0 +1,281 @@
+/* Estilos para Pastenautico */
+
+body {
+    position: absolute;
+    width: 100%;
+    height: 1024px;
+    background: #FFFFFF;
+}
+
+header {
+    position: relative;
+    width: 100%;
+    height: 57px;
+    background: #660A0A;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 40px;
+    background: #660A0A;
+}
+
+header > .info{
+    width: 400px;
+    height: 56px;
+    float: right;
+    color: #FFFFFF;
+    padding-top: 10px;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-top: 50px;
+
+}
+
+a:link {
+    color: #ffffff;
+  }
+  
+  a:visited {
+    color: #ffffff;
+  }
+  
+  a:focus {
+    border-bottom: 1px solid;
+  }
+  
+  a:hover {
+    border-bottom: 1px solid;
+  }
+  
+  a:active {
+    background: #265301;
+  }
+
+header > .logo > img {
+    position: absolute;
+    width: 268.7px;
+    height: 56.94px;
+    left: 0px;
+    top: 0px;
+}
+
+.container{
+    position: relative;
+    /* border: solid green 2px; */
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+}
+
+#about {
+    position: relative;
+    width: 45%;
+    height: 600px;
+    float: left;
+    /* border: solid blue 2px; */
+    padding-top: 30px;
+}
+
+#imgpastenautico{
+    position: relative;
+    width: 45%;
+    height: 600px;
+    float: right;
+    /* border: solid green 2px; */
+}
+
+#imgpastenautico > img{
+    width: 85%;
+    height: 550;
+    margin: auto;
+    display: block;
+}
+
+.abouttitle {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#modalsession {
+    position: relative;
+    width: 40%;
+    height: 500px;
+    margin: 50px auto auto auto;
+    background-color: #214282;
+    /* border: solid yellow 2px; */
+    padding: 20px;
+}
+
+#titlelogin > p {
+    font-size: 48px;
+    font-weight: bold;
+    color: #FFFFFF;
+    /* border: solid rgb(0, 255, 21) 2px; */
+}
+
+#titlelogin {
+    margin-bottom: 50px;
+    /* border: solid rgb(0, 255, 21) 2px; */
+}
+
+#sessionbutton {
+    position: relative;
+    /* border: solid yellow 2px; */
+    
+}
+
+#sessionbutton > button{
+    border: solid green 2px;
+    width: 200px;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(201, 201, 201, 0.5);
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.listOptions {
+    font-size: 39px;
+    font-weight: bold;
+}
+
+#fondoContainer {
+    margin-top: 50px;
+    background: rgba(220, 220, 220, 0.43);
+    /* border: solid red 2px; */
+    padding: 15px 15px 15px 15px;
+    position: relative;
+
+}
+
+.container > #realizarPedido {
+    position: relative;
+    width: 344px;
+    height: 62px;
+    background: #214282;
+    /* border: solid rgb(177, 124, 124) 1px; */
+    color: white;
+}
+
+form {
+    position: relative;
+    width: 100%;
+    height: auto;
+    /* border: solid yellow 2px; */
+}
+
+.ddOption{
+    font-size: 24px;
+}
+
+#listaCombinacion {
+    position: relative;
+    width: 45%;
+    height: auto;
+    /* border: solid blue 2px; */
+    display: inline-block;
+}
+
+#listaCombinacionForm {
+    position: relative;
+    width: 50%;
+    height: auto;
+    /* border: solid blue 2px; */
+    display: inline-block;
+}
+
+#infoEnvio {
+    position: absolute;
+    top: 0px;
+    width: 50%;
+    height: auto;
+    /* border: solid rgb(70, 194, 59) 2px; */
+    display: inline-block;
+    top: 0px;
+} 
+
+#infoEnvio > label {
+    display: block;
+    width: 100%;
+    /* border: solid gray 2px; */
+}
+#infoEnvio > input {
+    display: block;
+    width: 100%;
+    /* border: solid gray 2px; */
+    margin-bottom: 18px;
+}
+
+#listaCombinacionForm > input {
+    display: inline-block;
+    width: 10%;
+
+}
+
+#listaCombinacionForm > label {
+    display: inline-block;
+    width: 85%;
+
+}
+
+#enviar {
+    position: relative;
+    width: 344px;
+    height: 62px;
+    background: #214282;
+    /* border: solid rgb(177, 124, 124) 1px; */
+    color: white;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    font-weight: bold;
+    font-size: 25px;
+    margin-right: 50px;
+    /* border: solid red 2px; */
+    display: inline-block;
+    width: 100px;
+}
+
+td {
+    margin-right: 50px;
+    /* border: solid red 2px; */
+    display: inline-block;
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

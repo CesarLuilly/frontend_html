@@ -1,6 +1,6 @@
 # Practica Frontend HTML
 
-##El site de esta practica esta en la Carpeta "Pasteleria"
+## El site de esta practica esta en la Carpeta "Pasteleria"
 
 Caso: Pastelería
 
